@@ -1,4 +1,4 @@
-## Introduction -> BASICS in <img src="https://www.svgrepo.com/show/376344/python.svg" alt="Oven" width="70"/>
+## Introduction: Basics in Python
 
 Python is a [dynamic and strongly][dynamic typing in python] typed programming language.
 It employs both [duck typing][duck typing] and [gradual typing][gradual typing] via [type hints][type hints].
