@@ -8,8 +8,8 @@ of a module and its functions and/or classes.
 """
 
 
-#TODO: define the 'EXPECTED_BAKE_TIME' constant.
-
+# define the 'EXPECTED_BAKE_TIME' constant. ✅
+EXPECTED_BAKE_TIME = 60
 
 #TODO: Remove 'pass' and complete the 'bake_time_remaining()' function below.
 def bake_time_remaining():
