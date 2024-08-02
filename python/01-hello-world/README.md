@@ -1,11 +1,13 @@
 # Hello World
 
-Welcome to Hello World on Exercism's Python Track.
+Welcome to Hello World on Exercism's Python Track.</br>
 If you need help running the tests or submitting your code, check out `HELP.md`.
+
+<img src="https://i.redd.it/n93k6oc2wab71.png" alt="Hello World python image" width="180"/>
 
 ## Instructions
 
-The classical introductory exercise.
+The classical introductory exercise.</br>
 Just say "Hello, World!".
 
 ["Hello, World!"][hello-world] is the traditional first program for beginning programming in a new language or environment.
