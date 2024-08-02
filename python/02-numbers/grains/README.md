@@ -1,4 +1,4 @@
-# Grains
+# <img src="https://assets.exercism.org/exercises/grains.svg" alt="Grains" width="80"/>Grains 
 
 Welcome to Grains on Exercism's Python Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
