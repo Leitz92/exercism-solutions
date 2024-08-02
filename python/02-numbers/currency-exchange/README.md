@@ -1,4 +1,4 @@
-# Currency Exchange
+# <img src="https://assets.exercism.org/exercises/hyperia-forex.svg" alt="Currency Exchange Logo" width="80"/> Currency Exchange
 
 Welcome to Currency Exchange on Exercism's Python Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.

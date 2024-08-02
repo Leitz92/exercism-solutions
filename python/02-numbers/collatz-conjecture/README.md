@@ -1,4 +1,4 @@
-# Collatz Conjecture
+# <img src="https://assets.exercism.org/exercises/collatz-conjecture.svg" alt="Collatz Logo" width="80"/> Collatz Conjecture
 
 Welcome to Collatz Conjecture on Exercism's Python Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.

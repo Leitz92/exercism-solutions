@@ -1,4 +1,4 @@
-# Hello World
+# <img src="https://assets.exercism.org/exercises/hello-world.svg" alt="Hello World" width="80"/> Hello World
 
 Welcome to Hello World on Exercism's Python Track.</br>
 If you need help running the tests or submitting your code, check out `HELP.md`.
