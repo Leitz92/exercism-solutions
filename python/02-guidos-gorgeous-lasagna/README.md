@@ -1,4 +1,4 @@
-# Guido's Gorgeous Lasagna
+# <img src="https://assets.exercism.org/exercises/lasagna.svg" alt="Oven" width="80"/> Guido's Gorgeous Lasagna 
 
 Welcome to Guido's Gorgeous Lasagna on Exercism's Python Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
