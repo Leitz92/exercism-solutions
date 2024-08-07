@@ -4,6 +4,8 @@
 
 Este repositorio contiene mis soluciones a los ejercicios de [Exercism](https://exercism.org/). Cada carpeta corresponde a un lenguaje de programación y contiene las soluciones de los ejercicios para ese lenguaje.
 
+Echa un vistazo a mi progreso aquí: 🔍[Mi perfil Exercism](https://exercism.org/profiles/Leitz92)
+
 ## Estructura del repositorio
 
 ```plaintext
