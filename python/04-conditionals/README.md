@@ -1,6 +1,4 @@
-# Introduction
-
-## Conditionals in Python
+# Conditionals in Python
 
 In Python, [`if`][if statement], `elif` (_a contraction of 'else and if'_) and `else` statements are used to [control the flow][control flow tools] of execution and make decisions in a program.
 Unlike many other programming languages, Python versions 3.9 and below do not offer a formal case-switch statement, instead using multiple `elif` statements to serve a similar purpose.

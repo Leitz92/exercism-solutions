@@ -1,6 +1,4 @@
-# Introduction
-
-## Bools in Python
+# Bools in Python
 
 Python represents true and false values with the [`bool`][bools] type, which is a subtype of `int`.
  There are only two values in this type: `True` and `False`.
