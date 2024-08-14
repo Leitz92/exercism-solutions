@@ -1,4 +1,4 @@
-# <img src="https://assets.exercism.org/exercises/poker.svg" alt="raindrops" width="80"/> Raindrops
+# <img src="https://assets.exercism.org/exercises/raindrops.svg" alt="raindrops" width="80"/> Raindrops
 
 Welcome to Raindrops on Exercism's Python Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
